@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/51299c06-ec9a-43be-afe1-f1ca9d35ca5d
 - game supports any number of custom dice with any face values.
 - win probability table — shows win probabilities for all dice using a rich library.
 - cli menu on every user input (handle exit and showing table).
-- fair random generator protocol logic (generates one-time key and hmac(sha3) for every uniformly distributed integer) to prove to the user that choice was fair.
+- fair random generator protocol logic (generates one-time key and hmac(sha3) for every uniformly distributed integer generation) to prove to the user that choice was fair.
 - first move decision and roll logic using fair random generator protocol.
 - result calculation use both generated number by computer and user input and their sum using modular arithmetic.
 - error handling.
