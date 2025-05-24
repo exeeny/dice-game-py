@@ -3,6 +3,11 @@
 This project is a console script game that implements a generalized non-transitive dice game (with the supports of arbitrary values on the dice).
 it accepts 3 or more strings aka dices, with any number of faces and values
 
+
+https://github.com/user-attachments/assets/51299c06-ec9a-43be-afe1-f1ca9d35ca5d
+
+
+
 ---
 
 ### Features
