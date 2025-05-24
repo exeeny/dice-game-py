@@ -25,7 +25,6 @@ https://github.com/user-attachments/assets/51299c06-ec9a-43be-afe1-f1ca9d35ca5d
 ## third-party libraries i used: 
 
 - rich
-- numpy
 
 ---
 

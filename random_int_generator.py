@@ -1,4 +1,3 @@
-import numpy as np
 import secrets
 import hmac
 import hashlib
@@ -11,7 +10,7 @@ class RandomIntGenerator:
         self.hmac = self.generate_hmac()
 
     def generate_random_uniform_int(self):
-        return int(np.random.uniform(low=0, high=self.range))
+        return secrets.randbelow(self.range)
     
     def generateKey(self):
         return secrets.token_hex(32)
